@@ -6,7 +6,8 @@
     
     "gulp": "",
     "mocha": "",
-    "gulp-mocha": ""
+    "gulp-mocha": "",
+    "chai": ""
     
   },
   "scripts": {
