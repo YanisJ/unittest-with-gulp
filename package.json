@@ -1,0 +1,15 @@
+{
+  "private": true,
+  "name": "unittest-with-gulp",
+  
+  "devDependencies": {
+    
+    "gulp": "",
+    "mocha": "",
+    "gulp-mocha": ""
+    
+  },
+  "scripts": {
+
+  }
+}
